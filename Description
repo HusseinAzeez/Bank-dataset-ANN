@@ -2,4 +2,4 @@ The customers in a big bank started to close their accounts for an unknown reaso
 the bank management trying to understand what is the reason for that 
 by implementing an Artifical Neural Network on their dataset using the dataset features, such as, Age, Gender, Balanced, etc.
 
-The dataset contains 10,000 raws (Customers).
+The dataset contains 10,000 rows (Customers).
