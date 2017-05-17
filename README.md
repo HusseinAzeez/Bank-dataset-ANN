@@ -7,8 +7,9 @@ such as, Age, Gender, Balanced, etc, however, I used an Artifical Neural Network
 Here are some dataset characteristics:
 
 The dataset contains 10,000 rows (Customers).
-Training set contains 8,000 rows.
-Testing set contains 2,000 rows.
+Splitted into 2 datasets:
+          1- Training set contains 8,000 rows.
+          2- Testing set contains 2,000 rows.
 
 The accuracy for the incoming data is 86%.
 
